@@ -48,7 +48,15 @@ payments and the following calculations were made:
 
 **Dashboard creation**
 
-[Download here]
+Palmora Group HR Analysis.pdf : [Download here](https://github.com/user-attachments/files/22388316/Palmora.Group.HR.Analysis.pdf)
+
+
+
+![Palmora Group HR Analysis_page-0001](https://github.com/user-attachments/assets/72eb339b-0c6b-49b6-80ee-df65e199ebd2)
+
+
+
+
 
 
 
