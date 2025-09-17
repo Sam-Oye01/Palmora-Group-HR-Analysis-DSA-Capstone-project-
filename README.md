@@ -44,7 +44,11 @@ payments and the following calculations were made:
 - Added another conditional column for Minimum salary requirement : If Salary is 90,000 then "Paid below standard" else "Paid above standard".
 - Added a conditional column for salary band.
 
+### Visualization and Reporting
 
+**Dashboard creation**
+
+[Download here]
 
 
 
